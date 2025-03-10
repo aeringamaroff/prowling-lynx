@@ -52,7 +52,7 @@ text {
 .Logo--react {
   width: 100px;
   height: 100px;
-  animation: Logo--spin infinite 20s linear;
+  animation: Logo--shake infinite 0.5s ease;
 }
 
 .Logo--lynx {

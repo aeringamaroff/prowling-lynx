@@ -2,10 +2,11 @@ import { useCallback, useEffect, useState } from '@lynx-js/react';
 
 import { useNavigate } from 'react-router';
 
-import './App.css';
-import arrow from './assets/arrow.png';
-import lynxLogo from './assets/lynx-logo.png';
-import reactLynxLogo from './assets/react-logo.png';
+import '../App.css';
+import arrow from '../assets/arrow.png';
+import lynxLogo from '../assets/lynx-logo.png';
+import reactLynxLogo from '../assets/react-logo.png';
+import eveMail from '../assets/eve_mail.png';
 
 export function Mail() {
   const [alterLogo, setAlterLogo] = useState(false);
@@ -28,7 +29,7 @@ export function Mail() {
         <view className="Banner">
           <view className="Logo" bindtap={onTap}>
             {alterLogo ? (
-              <image src={reactLynxLogo} className="Logo--react" />
+              <image src={eveMail} className="Logo--react" />
             ) : (
               <image src={lynxLogo} className="Logo--lynx" />
             )}

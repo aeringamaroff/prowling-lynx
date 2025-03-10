@@ -2,7 +2,7 @@ import { root } from '@lynx-js/react';
 import { MemoryRouter, Routes, Route } from 'react-router';
 
 import { App } from './App.jsx';
-import { Mail } from './Mail.jsx';
+import { Mail } from './mail/Mail.jsx';
 
 root.render(
   <MemoryRouter>

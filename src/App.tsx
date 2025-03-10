@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useState } from '@lynx-js/react';
+import { useNavigate } from 'react-router';
 
 import './App.css';
 import arrow from './assets/arrow.png';
@@ -7,6 +8,8 @@ import reactLynxLogo from './assets/react-logo.png';
 
 export function App() {
   const [alterLogo, setAlterLogo] = useState(false);
+
+  const nav = useNavigate();
 
   useEffect(() => {
     console.info('Hello, ReactLynx');
@@ -35,6 +38,9 @@ export function App() {
         <view className="Content">
           <image src={arrow} className="Arrow" />
           <text className="Description">Tap the logo and have fun!</text>
+          <view>
+            <text bindtap={() => nav('/mail')}>Navigate to EVE Mail</text>
+          </view>
           <text className="Hint">
             Edit<text style={{ fontStyle: 'italic' }}>{' src/App.tsx '}</text>
             to see updates!

@@ -1,0 +1,734 @@
+[
+  {
+    "from": 233101248,
+    "is_read": false,
+    "labels": [4],
+    "mail_id": 398164958,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Fleet Ops - Social PVE Fleet & Training - Tuesday 11th March 20:00 Eve Time",
+    "timestamp": "2025-03-09T13:09:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": false,
+    "labels": [8],
+    "mail_id": 398164931,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops - Homefront Operations/Drifter Crisis - This Saturday 8th March - 15:00 Eve Time - AAR",
+    "timestamp": "2025-03-09T13:06:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": false,
+    "labels": [8],
+    "mail_id": 398151874,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops - Homefront Operations/Drifter Crisis - This Saturday 8th March - 15:00 Eve Time",
+    "timestamp": "2025-03-07T11:35:00Z"
+  },
+  {
+    "from": 2122246627,
+    "is_read": true,
+    "labels": [2],
+    "mail_id": 398149023,
+    "recipients": [
+      {
+        "recipient_id": 2123234302,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "skill plan",
+    "timestamp": "2025-03-06T19:51:00Z"
+  },
+  {
+    "from": 2122246627,
+    "is_read": true,
+    "labels": [2],
+    "mail_id": 398148965,
+    "recipients": [
+      {
+        "recipient_id": 2123234302,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "home",
+    "timestamp": "2025-03-06T19:36:00Z"
+  },
+  {
+    "from": 2122164345,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 398132659,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      },
+      {
+        "recipient_id": 233101248,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "Re: Corp - Station Containers",
+    "timestamp": "2025-03-03T22:41:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 398130529,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Station Containers",
+    "timestamp": "2025-03-03T17:26:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 398130521,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Fleet Ops - PVE Fleet & Training - Wednesday 5th March 20:00 Eve Time",
+    "timestamp": "2025-03-03T17:25:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 398106935,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Re: Corp - Fleet Ops - PVE Fleet & Training - Wednesday 26th February 20:00 Eve Time - AAR",
+    "timestamp": "2025-02-28T06:51:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 398101680,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      },
+      {
+        "recipient_id": 2117826476,
+        "recipient_type": "character"
+      },
+      {
+        "recipient_id": 123783009,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops - Homefront Operations/Drifter Crisis - This Saturday 1st March - 15:00 Eve Time",
+    "timestamp": "2025-02-27T09:46:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 398090413,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Fleet Ops - PVE Fleet & Training - Wednesday 26th February 20:00 Eve Time",
+    "timestamp": "2025-02-25T16:57:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 398083507,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - MTU Losses",
+    "timestamp": "2025-02-24T16:18:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 398083275,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Re: Alliance - Fleet Ops - Homefront Operations/Drifter Crisis - This Saturday 24th February - 15:00 Eve Time - AAR",
+    "timestamp": "2025-02-24T15:43:00Z"
+  },
+  {
+    "from": 2123203378,
+    "is_read": true,
+    "labels": [1],
+    "mail_id": 398030148,
+    "recipients": [
+      {
+        "recipient_id": 2122246627,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "Crisis level event - rewards for action",
+    "timestamp": "2025-02-24T13:37:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 398003960,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Losses on Burner Missions last 30 days",
+    "timestamp": "2025-02-24T05:19:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397992673,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Ice Mining Channel & Refinery",
+    "timestamp": "2025-02-22T16:46:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397984025,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Welcome Aboard Children of Ammutseba",
+    "timestamp": "2025-02-21T10:50:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397969704,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Project \"only good rat is a dead rat\" - Top Gun",
+    "timestamp": "2025-02-19T03:37:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397969665,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops - Homefront Operations/Drifter Crisis - This Saturday 24th February - 15:00 Eve Time",
+    "timestamp": "2025-02-19T03:24:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397969640,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Fleet Ops - PVE Fleet & Training - Wednesday 19th February 19:30 Eve Time",
+    "timestamp": "2025-02-19T03:19:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397957838,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Re: Crisis : Lancer Counter Offensive [Test Phase 1]",
+    "timestamp": "2025-02-17T08:49:00Z"
+  },
+  {
+    "from": 2117611189,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397956037,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Crisis : Lancer Counter Offensive [Test Phase 1]",
+    "timestamp": "2025-02-17T00:14:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397951489,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Re: Alliance - Fleet Ops - Homefront Operations - This Saturday 15th February - 15:00 Eve Time - Venture pilots ensure you read --AAR",
+    "timestamp": "2025-02-16T12:03:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397950639,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Milestone Decorations",
+    "timestamp": "2025-02-16T08:33:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397933500,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Station Containers",
+    "timestamp": "2025-02-13T16:21:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397933492,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Skillbooks (Corp Donations)",
+    "timestamp": "2025-02-13T16:20:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397931484,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops - Homefront Operations - This Saturday 15th February - 15:00 Eve Time - Venture pilots ensure you read",
+    "timestamp": "2025-02-13T06:48:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397931454,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Re: Corp - Fleet Ops - PVE Fleet & Training - Wednesday 12th February 19:30 Eve Time - After Action Report",
+    "timestamp": "2025-02-13T06:37:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397923247,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Fleet Ops - PVE Fleet & Training - Wednesday 12th February 19:30 Eve Time",
+    "timestamp": "2025-02-11T17:29:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397882197,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops - Homefront Operations - This Saturday 8th February - 15:00 Eve Time ",
+    "timestamp": "2025-02-05T05:15:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397875996,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Skillbooks (Corp Donations)",
+    "timestamp": "2025-02-04T06:15:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397868675,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Re: Alliance - Welcome Aboard Biostar Ind.",
+    "timestamp": "2025-02-03T06:09:00Z"
+  },
+  {
+    "from": 107721501,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397852278,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      },
+      {
+        "recipient_id": 233101248,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "Re: Alliances - Drifter Crisis Defend New Eden",
+    "timestamp": "2025-01-31T19:40:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397850059,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliances - Drifter Crisis Defend New Eden",
+    "timestamp": "2025-01-31T12:51:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397840241,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops - Mining & Homefront Operations - This Saturday 1st February - 15:00 Eve Time ",
+    "timestamp": "2025-01-29T18:53:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397799994,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      },
+      {
+        "recipient_id": 2119419753,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "Re: Free Items",
+    "timestamp": "2025-01-23T18:27:00Z"
+  },
+  {
+    "from": 2119419753,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397793676,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Free Items",
+    "timestamp": "2025-01-22T18:29:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397780132,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops -  Homefront Operations - This Saturday 25th January - 15:00 Eve Time ",
+    "timestamp": "2025-01-20T15:16:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397756681,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Implants / Hardwires (free of charge)",
+    "timestamp": "2025-01-17T06:46:00Z"
+  },
+  {
+    "from": 1277951157,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397755293,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Standard Sleeper Cache tips and tricks",
+    "timestamp": "2025-01-16T23:27:00Z"
+  },
+  {
+    "from": 96175774,
+    "is_read": true,
+    "labels": [1],
+    "mail_id": 397754859,
+    "recipients": [
+      {
+        "recipient_id": 145176537,
+        "recipient_type": "mailing_list"
+      },
+      {
+        "recipient_id": 2122246627,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "-Delivery Reciept- n*00090",
+    "timestamp": "2025-01-16T21:54:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397753585,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Re: Corp - Project \"Only good roid is a dead roid\" - Top Rock Smasher",
+    "timestamp": "2025-01-16T18:41:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397750353,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Fleet Ops -  Homefront Operations - This Saturday 18th January - 15:00 Eve Time ",
+    "timestamp": "2025-01-16T07:03:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397750080,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      },
+      {
+        "recipient_id": 2112302376,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "Re: Corp - Project \"Only good roid is a dead roid\" - Top Rock Smasher",
+    "timestamp": "2025-01-16T05:14:00Z"
+  },
+  {
+    "from": 2112302376,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397748992,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      },
+      {
+        "recipient_id": 233101248,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "Re: Corp - Project \"Only good roid is a dead roid\" - Top Rock Smasher",
+    "timestamp": "2025-01-16T00:01:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397744262,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Project \"Only good roid is a dead roid\" - Top Rock Smasher",
+    "timestamp": "2025-01-15T07:51:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [4],
+    "mail_id": 397744145,
+    "recipients": [
+      {
+        "recipient_id": 98252761,
+        "recipient_type": "corporation"
+      }
+    ],
+    "subject": "Corp - Project \"only good rat is a dead rat\" - Top Gun",
+    "timestamp": "2025-01-15T07:22:00Z"
+  },
+  {
+    "from": 682020765,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397743778,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Fitting your ships.",
+    "timestamp": "2025-01-15T05:01:00Z"
+  },
+  {
+    "from": 233101248,
+    "is_read": true,
+    "labels": [8],
+    "mail_id": 397731574,
+    "recipients": [
+      {
+        "recipient_id": 99009961,
+        "recipient_type": "alliance"
+      }
+    ],
+    "subject": "Alliance - Alliance Bills / Fees - If you are a CEO/Director please ignore the bill requests and stop paying it",
+    "timestamp": "2025-01-13T10:38:00Z"
+  },
+  {
+    "from": 98252761,
+    "is_read": true,
+    "labels": [1],
+    "mail_id": 397720347,
+    "recipients": [
+      {
+        "recipient_id": 2122246627,
+        "recipient_type": "character"
+      }
+    ],
+    "subject": "Automated Message: Welcome to Br0wn Coat5",
+    "timestamp": "2025-01-11T20:25:00Z"
+  }
+]

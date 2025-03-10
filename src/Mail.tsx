@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useState } from '@lynx-js/react';
+
 import { useNavigate } from 'react-router';
 
 import './App.css';
@@ -6,7 +7,7 @@ import arrow from './assets/arrow.png';
 import lynxLogo from './assets/lynx-logo.png';
 import reactLynxLogo from './assets/react-logo.png';
 
-export function App() {
+export function Mail() {
   const [alterLogo, setAlterLogo] = useState(false);
 
   const nav = useNavigate();
@@ -32,17 +33,17 @@ export function App() {
               <image src={lynxLogo} className="Logo--lynx" />
             )}
           </view>
-          <text className="Title">React</text>
-          <text className="Subtitle">on Lynx</text>
+          <text className="Title">EVE</text>
+          <text className="Subtitle">mail</text>
         </view>
         <view className="Content">
           <image src={arrow} className="Arrow" />
           <text className="Description">Tap the logo and have fun!</text>
           <view>
-            <text bindtap={() => nav('/mail')}>Navigate to EVE Mail</text>
+            <text bindtap={() => nav('/')}>Navigate back Home</text>
           </view>
           <text className="Hint">
-            Edit<text style={{ fontStyle: 'italic' }}>{' src/App.tsx '}</text>
+            Edit<text style={{ fontStyle: 'italic' }}>{' src/Mail.tsx '}</text>
             to see updates!
           </text>
         </view>

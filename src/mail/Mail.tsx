@@ -1,13 +1,8 @@
 import { useCallback, useEffect, useState } from '@lynx-js/react';
-
-import {} from 'react';
-
 import { useNavigate } from 'react-router';
 
 import '../App.css';
-import arrow from '../assets/arrow.png';
 import lynxLogo from '../assets/lynx-logo.png';
-import reactLynxLogo from '../assets/react-logo.png';
 import eveMail from '../assets/eve_mail.png';
 
 import mailData from '../assets/data/eve_mail_response.json';

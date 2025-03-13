@@ -1,26 +1,46 @@
 import '../../App.css';
+import './Components.css';
+import mailIcon from '../eve_mail.png';
+import arrowIcon from '../arrow.png';
 
 export const VerticalScrollItem = (props: { item: any; index: number }) => {
-  const date = new Date(props.item.timestamp);
-
-  const formattedDate = date.toLocaleString('en-GB');
+  const formatDate = (isoString: string): string => {
+    const date = new Date(isoString);
+    return date.toLocaleString('en-GB', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      second: '2-digit',
+      hour12: false,
+    });
+  };
 
   return (
     <view
       style={{
-        width: 'calc(100% - 10px)',
+        width: '100%',
         height: 'auto',
-        background: 'linear-gradient(to top, #d3d3d3, #808080);',
+        background:
+          'linear-gradient(to top, rgba(161, 161, 161, 0.9), rgba(132, 132, 132, 0.9));',
         marginBottom: '1rem',
+        borderRadius: '25px',
       }}
     >
-      <text className="Hint">{formattedDate}</text>
-      <text className="Description">{props.item.subject}</text>
+      <view className="container">
+        <view className="item">
+          <text className="Hint">{formatDate(props.item.timestamp)}</text>
+        </view>
+        <view className="item">
+          <image
+            style={{ width: '3rem', height: '3rem' }}
+            src={props.item.is_read ? mailIcon : arrowIcon}
+          />
+        </view>
+      </view>
 
-      {/* <image
-          style={{ width: "calc(100% - 10px)", height: "160px" }}
-          src={props.index % 3 == 0 ? image_0 : (props.index % 3 == 1 ? image_1 : image_2)}
-        /> */}
+      <text className="Description">{props.item.subject}</text>
     </view>
   );
 };

@@ -1,5 +1,7 @@
 import { useCallback, useEffect, useState } from '@lynx-js/react';
 
+import {} from 'react';
+
 import { useNavigate } from 'react-router';
 
 import '../App.css';
@@ -32,6 +34,7 @@ export function Mail() {
         height: '100%',
         padding: 10,
         display: 'linear',
+        marginTop: '2rem',
       }}
     >
       <view className="Background" />
@@ -60,7 +63,8 @@ export function Mail() {
         scroll-orientation="vertical"
         style={{
           width: '100%',
-          height: '100%',
+          height: '60%',
+          padding: '1rem',
         }}
       >
         {mailData.map((item, index) => (

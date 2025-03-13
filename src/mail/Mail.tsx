@@ -11,7 +11,7 @@ import reactLynxLogo from '../assets/react-logo.png';
 import eveMail from '../assets/eve_mail.png';
 
 import mailData from '../assets/data/eve_mail_response.json';
-import { VerticalScrollItem } from '../assets/components/MailItem.jsx';
+import { VerticalScrollItem } from '../components/MailItem.jsx';
 
 export function Mail() {
   const [alterLogo, setAlterLogo] = useState(false);

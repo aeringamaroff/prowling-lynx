@@ -1,31 +1,20 @@
-import '../../App.css';
+import '../App.css';
 import './Components.css';
-import mailIcon from '../eve_mail.png';
-import arrowIcon from '../arrow.png';
+import mailIcon from '../assets/eve_mail.png';
+import arrowIcon from '../assets/arrow.png';
+import { formatDate } from '../services/date.service.js';
 
 export const VerticalScrollItem = (props: { item: any; index: number }) => {
-  const formatDate = (isoString: string): string => {
-    const date = new Date(isoString);
-    return date.toLocaleString('en-GB', {
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric',
-      hour: '2-digit',
-      minute: '2-digit',
-      second: '2-digit',
-      hour12: false,
-    });
-  };
-
   return (
     <view
       style={{
         width: '100%',
-        height: 'calc(auto + 200px)', //'calc(auto + 1rem)',
+        height: 'auto',
         background:
           'linear-gradient(to top, rgba(121, 204, 206, 0.9), rgba(132, 132, 132, 0.9));',
         marginBottom: '1rem',
         borderRadius: '25px',
+        paddingBottom: '15px',
       }}
     >
       <view className="container">

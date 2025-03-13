@@ -9,6 +9,7 @@
 }
 
 .container {
+  padding-top: 0.5rem;
   justify-content: space-between;
   display: flex;
   flex-direction: row;

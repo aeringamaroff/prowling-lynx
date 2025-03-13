@@ -21,9 +21,9 @@ export const VerticalScrollItem = (props: { item: any; index: number }) => {
     <view
       style={{
         width: '100%',
-        height: 'auto',
+        height: 'calc(auto + 200px)', //'calc(auto + 1rem)',
         background:
-          'linear-gradient(to top, rgba(161, 161, 161, 0.9), rgba(132, 132, 132, 0.9));',
+          'linear-gradient(to top, rgba(121, 204, 206, 0.9), rgba(132, 132, 132, 0.9));',
         marginBottom: '1rem',
         borderRadius: '25px',
       }}

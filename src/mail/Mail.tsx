@@ -57,13 +57,12 @@ export function Mail() {
           Edit<text style={{ fontStyle: 'italic' }}>{' src/Mail.tsx '}</text>
           to see updates!
         </text>
-        <text className="Description">Mail list:</text>
       </view>
       <scroll-view
         scroll-orientation="vertical"
         style={{
           width: '100%',
-          height: '60%',
+          height: '70%',
           padding: '1rem',
         }}
       >
